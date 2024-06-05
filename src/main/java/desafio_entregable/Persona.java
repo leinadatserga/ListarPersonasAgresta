@@ -1,8 +1,10 @@
+package desafio_entregable;
+
 public class Persona {
     String nombre;
     String apellido;
 
-    public Persona (){};
+    public Persona (){}
 
     public Persona(String apellido, String nombre) {
         this.apellido = apellido;
